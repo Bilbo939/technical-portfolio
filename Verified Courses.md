@@ -7,6 +7,7 @@ Primarily serves to collate completed DataCamp courses from multiple employer ac
 
 | Course Title | Provider | Core Subskills Covered | Link |
 | :--- | :--- | :--- | :---: |
+| **Functions for Manipulating Data in PostgreSQL** | DataCamp | Data Types, Date types, Text types, Manipulation of Date, Text and Searching Text, PostgreSQL Extensions | [View Statement](https://www.datacamp.com/completed/statement-of-accomplishment/course/15207d64edf843db14fbb48f2e665f7f6e941d01) |
 | **PostgreSQL Summary Stats and Window Functions** | DataCamp | Window frames, `OVER()`, `RANK()`, lead/lag analytical functions, running totals, and partition masking. | [View Statement](https://www.datacamp.com/completed/statement-of-accomplishment/course/e48bb702a3153cdd8e8ba5c952bd372f2625e706) |
 | **Data Manipulation in SQL** | DataCamp | Transforming data types, `CASE WHEN` logic, string manipulation, and working with Date/Time functions. | [View Statement](https://www.datacamp.com/completed/statement-of-accomplishment/course/dd580d81ea38969fc414558f5bead8a613cd60de) |
 | **Intermediate SQL** | DataCamp | Subqueries, nested queries, aggregate filtering (`HAVING`), and complex conditional logic. | [View Statement](https://www.datacamp.com/completed/statement-of-accomplishment/course/ec9ceb0ca588cc314c9712ac7ae4ad1eb01e5b27) |
